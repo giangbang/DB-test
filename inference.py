@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 import math
 import io
-from .model import *
+from model import *
 from PIL import Image
 
 class DBInference:
